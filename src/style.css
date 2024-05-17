@@ -5,6 +5,7 @@
   width: 350px;
   margin: 20px auto;
 }
+
 .list-item {
   height: 40px;
   display: flex;
@@ -14,16 +15,19 @@
   box-sizing: border-box;
   width: 100%;
 }
+
 .list-item img {
   height: 20px;
   width: 20px;
   border-radius: 50%;
   margin-right: 10px;
 }
+
 .list-item .username {
   font-weight: bold;
   margin-right: 10px;
 }
+
 .list-item .comment {
   color: #666;
 }
